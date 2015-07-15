@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="11" errors="0" failures="0" time="0.015" timestamp="2015-07-15T17:27:11">
+		<testcase classname="pigLatin" name="translates a word beginning with a" time="0.004">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with e" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with p" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with k" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with ch" time="0.001">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with qu" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word with a consonant preceding qu" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with th" time="0.001">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with thr" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a word beginning with sch" time="0">
+		</testcase>
+		<testcase classname="pigLatin" name="translates a phrase" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
